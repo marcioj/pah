@@ -8,6 +8,7 @@
 
 - Added badges
 - Updated rvm
+- Updated Rails to 4.0 and Ruby to 2.0
 
 ### bug fixes
 
