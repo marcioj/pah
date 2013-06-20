@@ -8,6 +8,7 @@
 
 - Added badges
 - Updated rvm
+- Do not fixed the versions of gems on Gemfile
 
 ### bug fixes
 
