@@ -12,6 +12,8 @@
 
 ### bug fixes
 
+- Fixed bug on secure_headers partial
+
 ## 0.0.2 (June 20, 2013)
 
 ### features
