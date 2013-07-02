@@ -41,7 +41,8 @@ end
 
 group :test do
   gem 'webmock',            '1.11.0'
-  gem 'shoulda-matchers',   '2.2.0'
+  # See https://github.com/thoughtbot/shoulda-matchers/issues/270
+  gem "shoulda-matchers",   github: "thoughtbot/shoulda-matchers" , branch: 'dp-rails-four'
   gem 'timecop',            '0.6.1'
   gem 'simplecov',          '0.7.1', require: false
   gem 'capybara',           '2.1.0'
