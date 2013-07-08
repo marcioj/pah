@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.4 (unreleased)
+
+### features
+
+### improvements
+
+- Changed readme 
+
 ## 0.0.3 (July 05, 2013)
 
 ### features
